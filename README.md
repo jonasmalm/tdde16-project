@@ -1,5 +1,4 @@
-# From Fake News to Great Rules
-Using Machine Learning to create human-interpretable rules to spot fake news
+# From Fake News to Great Rules: Using Machine Learning to create human-interpretable rules to spot fake news
 
 ## Introduction
 The code in this notebook was used in my project "From Fake News to Great Rules" in the LiU course TDDE16.
